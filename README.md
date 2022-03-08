@@ -9,7 +9,7 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-7014E8)
 
 - :computer: I've been learning ASP.NET for a while.
-- 🌱 And also I’m currently learning the foundations of UX design, including empathizing with users, building wireframes and prototypes, and conducting research.
+- 🌱 And also I’m currently learning the foundations of UI design, including empathizing with users, building wireframes and prototypes, and conducting research.
 - :muscle: Everything is visible until done.
 - :heart: I keep learning new things every day.New and old technologies not important.I love coding.
 - :zap: Even if the knowledge is in China, go and get it. :rocket:
