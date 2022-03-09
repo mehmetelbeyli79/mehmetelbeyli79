@@ -14,6 +14,7 @@
 - :heart: I keep learning new things every day.New and old technologies not important.I love coding.
 - :zap: Even if the knowledge is in China, go and get it. :rocket:
 - :mailbox_with_mail: Reach me:
+- 
   [![image](https://img.shields.io/youtube/channel/views/UCcQmwKW-RSC978EisXee39Q?label=YouTube%20Kanal%C4%B1m&style=for-the-badge)](https://www.youtube.com/channel/UCcQmwKW-RSC978EisXee39Q)
   [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/elbeyli79)
   [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetelbeyli88@gmail.com)
