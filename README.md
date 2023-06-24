@@ -8,7 +8,7 @@
 ![PHP](https://img.shields.io/badge/PHP-8892BF)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-7014E8)
 
-- :computer: I've been learning ASP.NET for a while.
+- :computer: I've been learning NextJS and React for a while.
 - 🌱 And also I’m currently learning the foundations of UI design, including empathizing with users, building wireframes and prototypes, and conducting research.
 - :muscle: Everything is visible until done.
 - :heart: I keep learning new things every day.New and old technologies not important.I love coding.
